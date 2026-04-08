@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Milk Milk Milk",
+      "name": "MilkWay",
       "price": 50000.0,
       "currency": "UAH",
       "isAvailable": true,
