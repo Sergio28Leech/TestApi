@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Milk",
+      "name": "Milk Milk",
       "price": 35.0,
       "currency": "UAH",
       "isAvailable": true,
