@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "MilkWay",
+      "name": "MilkWay2000",
       "price": 12.0,
       "currency": "UAH",
       "isAvailable": true,
