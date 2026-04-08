@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Milk Milk",
+      "name": "Just Milk",
       "price": 35.0,
       "currency": "UAH",
       "isAvailable": true,
