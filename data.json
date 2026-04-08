@@ -32,6 +32,17 @@
       "tags": ["dairy", "premium"],
       "imageUrl": "https://via.placeholder.com/150",
       "createdAt": "2026-04-08T10:10:00Z"
+    },
+     {
+      "id": 4,
+      "name": "Cucumber",
+      "price": 1200.0,
+      "currency": "UAH",
+      "isAvailable": false,
+      "rating": 4.8,
+      "tags": ["dairy", "premium"],
+      "imageUrl": "https://via.placeholder.com/150",
+      "createdAt": "2026-04-08T10:10:00Z"
     }
   ],
   "meta": {
