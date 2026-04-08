@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Milk Milk Milk",
-      "price": 50.0,
+      "price": 50000.0,
       "currency": "UAH",
       "isAvailable": true,
       "rating": 4.5,
