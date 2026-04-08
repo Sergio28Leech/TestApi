@@ -1,0 +1,41 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Milk",
+      "price": 50.0,
+      "currency": "UAH",
+      "isAvailable": true,
+      "rating": 4.5,
+      "tags": ["dairy", "fresh"],
+      "imageUrl": "https://via.placeholder.com/150",
+      "createdAt": "2026-04-08T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Bread",
+      "price": 25.0,
+      "currency": "UAH",
+      "isAvailable": true,
+      "rating": 4.2,
+      "tags": ["bakery"],
+      "imageUrl": "https://via.placeholder.com/150",
+      "createdAt": "2026-04-08T10:05:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Cheese",
+      "price": 120.0,
+      "currency": "UAH",
+      "isAvailable": false,
+      "rating": 4.8,
+      "tags": ["dairy", "premium"],
+      "imageUrl": "https://via.placeholder.com/150",
+      "createdAt": "2026-04-08T10:10:00Z"
+    }
+  ],
+  "meta": {
+    "version": 1,
+    "lastUpdated": "2026-04-08T10:15:00Z"
+  }
+}
